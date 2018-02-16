@@ -1,0 +1,19 @@
+1- Comparer les spécificités de la programmation C et C++ orienté-objet
+
+Les différences entre le langage C et C++
+Le langage C++ est apparenté au langage C, essentiellement au niveau de la syntaxe. Le C++ est porte sur le coté orientés objet et sur la gestion mémoire.
+Un code source en C n'est qu'un enchaînement de définitions et d'appels à des procédures.
+Le C++ est une surcouche du C. Il introduit le modèle objet , ainsi que d'autres fonctionnalités.
+Le C et plus bas niveau que le C++.
+
+2- Expliquer la “vie” d’un objet
+
+L’objet est une instance de classe. La classe regroupe des attributs (variables) et des fonctions qui sont appelées méthodes, elles permettent de manipuler les données des classes.
+Lors de la création d’une nouvelle classe, nous avons besoin de créer un constructeur qui sera appelé au moment de la création d’une nouvelle instance de classe, une classe peut disposer 
+de plusieurs constructeurs chacun avec des paramètres différents.
+Le constructeur est une fonction membre car elle apporte des modifications à la classe.
+Dans la plupart des cas destructeur est appelé à la fin de l’exécution d’un programme, sa mission est de détruire l’instance de classe, dans certains cas le destructeur est appelé avec ‘’delete’’.
+
+
+
+
